@@ -6,7 +6,7 @@
     y="210"
     width="220"
     height="280"
-    animation="slide-right"
+    on_click="set('cavaleiro_x', 200)"
   />
   <agent
     id="viagem"
