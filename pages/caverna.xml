@@ -8,5 +8,12 @@
     height="280"
     draggable="true"
   />
-  />
+  <agent 
+    id="vei"
+    image="velho.png"
+    x="500"
+    y="310"
+    width="140"
+   
+    />
 </page>
