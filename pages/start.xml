@@ -4,7 +4,7 @@
     text="Proxima Pagina"
     animation="glitch"
     y="510"
-    x="5"
+    x="590"
     font-size="18"
     bg_color="#3a5c60"
     on_click="goToPage('middle')"
