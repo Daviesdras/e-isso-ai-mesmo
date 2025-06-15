@@ -1,27 +1,22 @@
-<page id="lore" bg_image="celebracao_oktoberfest_arte_digital.jpg"
-  #lore {
-  background-image: url('celebracao_oktoberfest_arte_digital.jpg');
-  filter: blur(1000px);
-}>
+<page id="lore" bg_image="celebracao_oktoberfest_arte_digital.jpg">
   <agent
     id="teste"
     text="Era uma vez, num reino não tão distante chamado Tronobrega, um jovem cavaleiro chamado Sir Nicolau. Ele não era o mais corajoso, nem o mais forte... mas era o único disponível no momento. E, para ser justo, tinha uma espada que brilhava no escuro — embora não fosse lá muito afiada."
     color="black"
-    
-     animation="typewriter"
-    width="790" 
+    animation="typewriter"
+    width="790"
     height="250"
     border="solid"
     bg_color="white"
     font-size="28"
   />
 
-   <agent 
-    id="imagem2" 
+  <agent
+    id="imagem2"
     image="chatgpt_image_15_de_jun_de_2025_15_35_57.png"
-    x="200" 
-    y="330" 
-    width="200" 
+    x="200"
+    y="330"
+    width="200"
     height="250"
-    />
+  />
 </page>
