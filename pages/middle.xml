@@ -28,7 +28,7 @@
     x="570"
     font-size="23"
     bg_color="#3a5c60"
-    on_click="goToPage('lore_1')"
+    on_click="goToPage('casteelo1')"
   />
   <agent
     id="rei"
