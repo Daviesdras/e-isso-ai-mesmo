@@ -1,3 +1,1 @@
-<page id="caverna" bg_image="caverna.jpg">
-  <agent id="titulo" x="center" y="center" text="Página caverna" color="white" font-size="24" />
-</page>
+<page id="caverna" bg_image="caverna.jpg" />
