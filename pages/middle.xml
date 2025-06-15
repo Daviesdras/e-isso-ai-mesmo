@@ -8,6 +8,18 @@
     width="200"
     height="250"
   />
+
+   <agent
+    id="teste"
+    text="Sir nicolau, meu tio — o famoso Mago Rabugildo — foi sequestrado por um dragão que odeia barulho e adora chá. Você deve resgatá-lo. E leve biscoitos, ele fica insuportável com fome.."
+    color="black"
+    animation="typewriter"
+    width="790"
+    height="250"
+    border="solid"
+    bg_color="white"
+    font-size="28" />
+  
   <agent
     id="next_page_text"
     text="Proxima Pagina"
@@ -16,4 +28,13 @@
     x="640"
     on_click="goToPage('ending')"
   />
+  <agent
+    id="rei"
+    image="rei_feliz.png"
+    width="200"
+    height="250"
+    y="230"
+    x="636"
+    />
+  
 </page>
