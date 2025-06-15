@@ -31,4 +31,15 @@ Com seu elmo torto, sua capa feita de toalha de mesa e um mapa escrito com canet
     bg_color="#3a5c60"
     on_click="goToPage('caverna')"
   />
+
+  <agent
+    id="gwg"
+    color="white"
+    text="Proxima Pagina"
+    y="500"
+    x="570"
+    font-size="23"
+    bg_color="#3a5c60"
+    on_click="goToPage('caverna')"
+  />
 </page>
