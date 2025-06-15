@@ -1,11 +1,10 @@
-<page id="start" bg_image="dra">
-
+<page id="start" bg_image="chatgpt_image_15_de_jun_de_2025_13_19_28.png">
   <agent
     id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"
     y="510"
-    x="590"
+    x="5"
     font-size="18"
     bg_color="#3a5c60"
     on_click="goToPage('middle')"
