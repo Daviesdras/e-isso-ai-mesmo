@@ -1,18 +1,11 @@
 <page id="lore" bg_color="black">
-  <agent
-    id="titulo"
-    x="center"
-    y="center"
-    text="Página lore"
-    color="white"
-    font-size="24"
-  />
+  
   <agent
     id="teste"
-    text="Heliddle"
+    text="Era uma vez, num reino não tão distante chamado Tronobrega, um jovem cavaleiro chamado Sir Jujuba. Ele não era o mais corajoso, nem o mais forte. Mas tinha algo especial: uma coragem quase inconsciente (e uma espada de plástico que brilha no escuro)."
     color="white"
     x="center"
     y="center"
-    font-size="70"
+    font-size="28"
   />
 </page>
