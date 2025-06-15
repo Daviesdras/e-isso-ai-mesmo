@@ -1,3 +1,23 @@
-<page id="viagem" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página viagem" color="white" font-size="24" />
+<page id="viagem" bg_image="istockphoto_1128211656_612x612.jpg">
+ <agent 
+   id="cavaleiro"
+    image="cavaleiro_feliz.png"
+    x="100"
+    y="210"
+    width="220"
+    height="280"
+  />
+   <agent
+    id="viagem"
+    text="Sir Nicolau montou seu cavalo... bem, tecnicamente era um Asno chamada . Mas era o que tinha.
+
+Com seu elmo torto, sua capa feita de toalha de mesa e um mapa escrito com caneta colorida, ele partiu para a Caverna do Dragão Hipster."
+    color="black"
+    animation="typewriter"
+    width="790"
+    height="150"
+    border="solid"
+    bg_color="white"
+    font-size="28"
+  />
 </page>
