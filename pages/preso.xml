@@ -1,3 +1,10 @@
 <page id="preso" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Você foi preso por desobedecer a ordem do rei e passarar a vida toda na prisao jogando domino" color="white" font-size="24" />
+  <agent
+    id="titulo"
+    x="center"
+    y="center"
+    text="Você foi preso por desobedecer à ordem do rei e passara a vida toda na prisão jogando dominó."
+    color="white"
+    font-size="28"
+  />
 </page>
