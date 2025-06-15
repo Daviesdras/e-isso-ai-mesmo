@@ -22,6 +22,6 @@
     x="center"
     font-size="23"
     bg_color="#3a5c60"
-    on_click="goToPage('goToPage('lore')')"
+    on_click="goToPage('lore')"
   />
 </page>
