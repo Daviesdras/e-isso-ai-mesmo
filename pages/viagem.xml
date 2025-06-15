@@ -1,13 +1,14 @@
 <page id="viagem" bg_image="istockphoto_1128211656_612x612.jpg">
- <agent 
-   id="cavaleiro"
+  <agent
+    id="cavaleiro"
     image="cavaleiro_feliz.png"
     x="100"
     y="210"
     width="220"
     height="280"
+    animation="slide-right"
   />
-   <agent
+  <agent
     id="viagem"
     text="Sir Nicolau montou seu cavalo... bem, tecnicamente era um Asno chamada Pe-de-pano. Mas era o que tinha.
 
