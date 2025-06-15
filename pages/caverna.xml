@@ -1,1 +1,9 @@
 <page id="caverna" bg_image="caverna.jpg" />
+ <agent
+    id="cavaleiro"
+    image="cavaleiro_feliz.png"
+    x="100"
+    y="210"
+    width="220"
+    height="280"
+    draggable="true" />
