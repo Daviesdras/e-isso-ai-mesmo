@@ -1,6 +1,6 @@
 <page id="caverna" bg_image="caverna.jpg" />
  <agent
-    id="cavaleiro"
+    id="cavaleir09"
     image="cavaleiro_feliz.png"
     x="100"
     y="210"
