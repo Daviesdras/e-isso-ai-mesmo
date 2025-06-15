@@ -1,9 +1,0 @@
-<page id="caverna" bg_image="caverna.jpg" />
- <agent
-    id="avxp"
-    image="cavaleiro_feliz.png"
-    x="center"
-    y="center"
-   
-  />
-   
