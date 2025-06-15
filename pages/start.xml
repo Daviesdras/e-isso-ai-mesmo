@@ -1,4 +1,16 @@
 <page id="start" bg_image="chatgpt_image_15_de_jun_de_2025_13_19_28.png">
+  
+ <agent
+    id="intro"
+    text="Você encontrou uma caixa antiga escondida atrás da parede da sacristia. Dentro, há seis cartas, todas endereçadas a você."
+    color="white"
+    x="center"
+    y="center"
+    font-size="35"
+  />
+
+  <agent
+  
   <agent
     id="next_page_text"
     text="Proxima Pagina"
