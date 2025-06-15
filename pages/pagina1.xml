@@ -1,3 +1,33 @@
-<page id="pagina1" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página pagina1" color="white" font-size="24" />
+<page id="pagina1" bg_image="8618668.jpg">
+  <agent
+    id="inicio"
+    text="Você aceita essa ordem?"
+    color="white"
+    x="center"
+    y="50"
+    bg_color="#1e3538"
+    width="600"
+    font-size="20"
+  />
+
+  <agent
+    id="em dupla"
+    text="Em dupla"
+    y="300"
+    x="100"
+    bg_color="#1e3538"
+    font-size="20"
+    on_click="goToPage('como_vc_vai')"
+  />
+
+  <agent
+    id="em trio"
+    text="Em trio"
+    y="300"
+    x="610"
+    bg_color="#1e3538"
+    font-size="20"
+    color="white"
+    on_click="goToPage('como_vc_vai')"
+  />
 </page>
