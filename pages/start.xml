@@ -1,9 +1,4 @@
-<page
-  id="start"
-  x="0"
-  y="1000"
-  bg_image="chatgpt_image_15_de_jun_de_2025_13_19_28.png"
->
+<page id="start" bg_image="chatgpt_image_15_de_jun_de_2025_13_19_28.png">
   <agent
     id="next_page_text"
     text="Proxima Pagina"
