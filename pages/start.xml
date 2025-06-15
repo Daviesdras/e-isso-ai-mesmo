@@ -4,18 +4,18 @@
 
   <agent
     id="intro"
-    text="A historia de sir Nicolau e o resgate de seu tio"
+    text="A história de Sir Nicolau e o resgate de seu tio Rabugildo"
     color="black"
     x="center"
     y=""
-    font-size="20"
+    font-size="24"
     font-family="Caveat"
   />
 
   <agent
     id="next_page_text"
+    color="white"
     text="Proxima Pagina"
-    
     y="500"
     x="center"
     font-size="18"
