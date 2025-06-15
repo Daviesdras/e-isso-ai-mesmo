@@ -7,7 +7,14 @@
     width="200"
     height="250"
   />
-
+  <agent
+    id="rei"
+    image="rei_feliz.png"
+    width="200"
+    height="250"
+    y="230"
+    x="636"
+  />
   <agent
     id="aceita"
     text="Você aceita essa ordem?"
