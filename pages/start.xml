@@ -15,9 +15,9 @@
   <agent
     id="next_page_text"
     text="Proxima Pagina"
-    animation="glitch"
-    y="510"
-    x="330"
+    
+    y="500"
+    x="center"
     font-size="18"
     bg_color="#3a5c60"
     on_click="goToPage('middle')"
