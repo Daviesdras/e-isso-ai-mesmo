@@ -6,7 +6,7 @@
     y="210"
     width="220"
     height="280"
-     draggable="true"
+    draggable="true"
   />
   <agent
     id="viagem"
@@ -20,5 +20,15 @@ Com seu elmo torto, sua capa feita de toalha de mesa e um mapa escrito com canet
     border="solid"
     bg_color="white"
     font-size="28"
+  />
+  <agent
+    id="ggg"
+    color="white"
+    text="Proxima Pagina"
+    y="500"
+    x="570"
+    font-size="23"
+    bg_color="#3a5c60"
+    on_click="goToPage('middle')"
   />
 </page>
