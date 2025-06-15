@@ -19,7 +19,7 @@
     border="solid"
     bg_color="white"
     font-size="28" />
-  <agent
+  <agent 
      id="teste1"
      color="black"
      width="79"
