@@ -1,7 +1,7 @@
 <page id="lore" bg_image="celebracao_oktoberfest_arte_digital.jpg"
   #lore {
   background-image: url('celebracao_oktoberfest_arte_digital.jpg');
-  filter: blur(5px);
+  filter: blur(1000px);
 }>
   <agent
     id="teste"
