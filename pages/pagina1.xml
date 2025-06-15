@@ -40,7 +40,7 @@
 
   <agent
     id="nao"
-    text="Não vai da tenho que levar meu peixe no veterinario "
+    text="Não vai dar, tenho que levar meu peixe ao veterinário. "
     y="140"
     x="400"
     width="329"
@@ -48,6 +48,6 @@
     bg_color="#1e3538"
     font-size="20"
     color="white"
-    on_click="goToPage('como_vc_vai')"
+    on_click="goToPage('preso')"
   />
 </page>
