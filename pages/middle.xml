@@ -1,6 +1,5 @@
-<page id="middle" bg_image="8618668.jpg" >
- 
- <agent
+<page id="middle" bg_image="8618668.jpg">
+  <agent
     id="imagem3"
     image="chatgpt_image_15_de_jun_de_2025_15_35_57.png"
     x="50"
@@ -9,7 +8,7 @@
     height="250"
   />
 
-   <agent
+  <agent
     id="teste"
     text="Sir nicolau, meu tio — o famoso Mago Rabugildo — foi sequestrado por um dragão que odeia barulho e adora chá. Você deve resgatá-lo. E leve biscoitos, ele fica insuportável com fome.."
     color="black"
@@ -18,10 +17,11 @@
     height="250"
     border="solid"
     bg_color="white"
-    font-size="28" />
- 
+    font-size="28"
+  />
+
   <agent
-    id="lore"
+    id="middle"
     color="white"
     text="Proxima Pagina"
     y="500"
@@ -37,6 +37,5 @@
     height="250"
     y="230"
     x="636"
-    />
-  
+  />
 </page>
