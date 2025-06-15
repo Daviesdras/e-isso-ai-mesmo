@@ -28,6 +28,6 @@
     x="center"
     font-size="23"
     bg_color="#3a5c60"
-    on_click="goToPage('start')"
+    on_click="goToPage('middle')"
   />
 </page>
