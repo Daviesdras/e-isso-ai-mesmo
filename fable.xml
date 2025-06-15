@@ -1,9 +1,11 @@
 <fable>
   <config font-family="" />
-  #lore {
+  <style>
+    #lore {
   background-image: url('celebracao_oktoberfest_arte_digital.jpg');
   filter: blur(5px);
 }
+  </style>
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
   <lore />
