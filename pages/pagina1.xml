@@ -35,7 +35,7 @@
     color="white"
     bg_color="#1e3538"
     font-size="20"
-    on_click="goToPage('como_vc_vai')"
+    on_click="goToPage('viagem')"
   />
 
   <agent
