@@ -1,14 +1,17 @@
 <page id="start" bg_image="chatgpt_image_15_de_jun_de_2025_13_19_28.png">
-  
-<agent
+  <config font-family="Geist" />
+  <!-- Substitua "Arial" pela fonte desejada -->
+
+  <agent
     id="intro"
-    text="A historia de sr"
+    text="A historia de sir Nicolau e o resgate de seu tio"
     color="black"
     x="center"
     y=""
     font-size="20"
+    font-family="Caveat"
   />
-  
+
   <agent
     id="next_page_text"
     text="Proxima Pagina"
