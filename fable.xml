@@ -8,8 +8,8 @@
   </style>
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
-  <lore />
   <start />
+  <lore />
   <middle />
   <ending />
 </fable>
