@@ -19,8 +19,19 @@ Ele jogou biscoitos no chão, e enquanto o dragão cheirava curiosamente, usou s
     height="250"
     border="solid"
     bg_color="white"
-    font-size="28" />
+    font-size="28"
+  />
   <agent id="drag" image="drag.png" x="470" y="180" width="290" />
   <agent id="vei" image="velho.png" x="440" y="380" width="140" />
+  />
+  <agent
+    id="dgb"
+    color="white"
+    text="Proxima Pagina"
+    y="540"
+    x="center"
+    font-size="23"
+    bg_color="#3a5c60"
+    on_click="goToPage('caverna2')"
   />
 </page>
