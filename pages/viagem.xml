@@ -9,13 +9,13 @@
   />
    <agent
     id="viagem"
-    text="Sir Nicolau montou seu cavalo... bem, tecnicamente era um Asno chamada . Mas era o que tinha.
+    text="Sir Nicolau montou seu cavalo... bem, tecnicamente era um Asno chamada Pe-de-pano. Mas era o que tinha.
 
 Com seu elmo torto, sua capa feita de toalha de mesa e um mapa escrito com caneta colorida, ele partiu para a Caverna do Dragão Hipster."
     color="black"
     animation="typewriter"
     width="790"
-    height="150"
+    height="200"
     border="solid"
     bg_color="white"
     font-size="28"
