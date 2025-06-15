@@ -1,3 +1,33 @@
-<page id="lore_1" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página lore_1" color="white" font-size="24" />
+<page id="lore_1" bg_image="celebracao_oktoberfest_arte_digital.jpg">
+  <agent
+    id="teste"
+    text="."
+    color="black"
+    animation="typewriter"
+    width="790"
+    height="250"
+    border="solid"
+    bg_color="white"
+    font-size="28"
+  />
+
+  <agent
+    id="imagem2"
+    image="soldado_feliz.png"
+    x="100"
+    y="330"
+    width="200"
+    height="250"
+  />
+
+  <agent
+    id="lore"
+    color="white"
+    text="Proxima Pagina"
+    y="500"
+    x="center"
+    font-size="23"
+    bg_color="#3a5c60"
+    on_click="goToPage('lore_1')"
+  />
 </page>
