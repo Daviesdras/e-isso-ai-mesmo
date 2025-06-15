@@ -18,9 +18,16 @@
     height="250"
     border="solid"
     bg_color="white"
-     
     font-size="28" />
-  
+  <agent
+     id="teste1"
+     color="black"
+     width="79"
+    height="250"
+    border="solid"
+    bg_color="white"
+    y=""
+    />
   <agent
     id="next_page_text"
     text="Proxima Pagina"
