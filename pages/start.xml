@@ -6,9 +6,11 @@
     id="intro"
     text="A história de Sir Nicolau e o resgate de seu tio Rabugildo"
     color="black"
-    x="center"
+    x=""
+     width="480" 
+    height="200"
     y=""
-    font-size="24"
+    font-size="29"
     font-family="Caveat"
   />
 
@@ -18,7 +20,7 @@
     text="Proxima Pagina"
     y="500"
     x="center"
-    font-size="18"
+    font-size="23"
     bg_color="#3a5c60"
     on_click="goToPage('middle')"
   />
