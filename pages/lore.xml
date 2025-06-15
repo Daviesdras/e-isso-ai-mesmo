@@ -21,13 +21,13 @@
   />
 
   <agent
-    id="qwe"
+    id="lore"
     color="white"
     text="Proxima Pagina"
     y="500"
     x="center"
     font-size="23"
     bg_color="#3a5c60"
-    on_click="goToPage('middle')"
+    on_click="goToPage('lore_1')"
   />
 </page>
