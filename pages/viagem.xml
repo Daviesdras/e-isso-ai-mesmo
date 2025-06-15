@@ -40,6 +40,6 @@ Com seu elmo torto, sua capa feita de toalha de mesa e um mapa escrito com canet
     x="570"
     font-size="23"
     bg_color="#3a5c60"
-    on_click="goToPage('caverna')"
+    on_click="goToPage('caverna2')"
   />
 </page>
