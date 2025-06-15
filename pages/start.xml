@@ -1,6 +1,13 @@
 <page id="start" bg_image="chatgpt_image_15_de_jun_de_2025_13_19_28.png">
   
-
+<agent
+    id="intro"
+    text="A historia de sr"
+    color="black"
+    x="center"
+    y=""
+    font-size="20"
+  />
   
   <agent
     id="next_page_text"
