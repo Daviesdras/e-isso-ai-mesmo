@@ -1,11 +1,11 @@
 <page id="lore_1" bg_image="celebracao_oktoberfest_arte_digital.jpg">
   <agent
     id="teste"
-    text="."
+    text="Um dia, o Rei lhe entregou uma missão"
     color="black"
     animation="typewriter"
     width="790"
-    height="250"
+    height="150"
     border="solid"
     bg_color="white"
     font-size="28"
