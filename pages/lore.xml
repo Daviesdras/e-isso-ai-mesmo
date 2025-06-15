@@ -1,8 +1,7 @@
 <page id="lore" bg_color="black">
-  
   <agent
     id="teste"
-    text="Era uma vez, num reino não tão distante chamado Tronobrega, um jovem cavaleiro chamado Sir Jujuba. Ele não era o mais corajoso, nem o mais forte. Mas tinha algo especial: uma coragem quase inconsciente (e uma espada de plástico que brilha no escuro)."
+    text="Era uma vez, num reino não tão distante chamado Tronobrega, um jovem cavaleiro chamado Sir Nicolau. Ele não era o mais corajoso, nem o mais forte... mas era o único disponível no momento. E, para ser justo, tinha uma espada que brilhava no escuro — embora não fosse lá muito afiada."
     color="white"
     x="center"
     y="center"
