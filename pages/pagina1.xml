@@ -1,5 +1,14 @@
 <page id="pagina1" bg_image="8618668.jpg">
   <agent
+    id="imagem3"
+    image="chatgpt_image_15_de_jun_de_2025_15_35_57.png"
+    x="50"
+    y="310"
+    width="200"
+    height="250"
+  />
+
+  <agent
     id="aceita"
     text="Você aceita essa ordem?"
     color="white"
