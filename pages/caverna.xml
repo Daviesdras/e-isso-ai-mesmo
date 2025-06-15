@@ -8,6 +8,6 @@
     height="280"
     draggable="true"
   />
-  <agent id="drag" image="drag.png" x="500" y="310" width="140" />
+  <agent id="drag" image="drag.png" x="470" y="200" width="270" />
   <agent id="vei" image="velho.png" x="500" y="310" width="140" />
 </page>
