@@ -4,8 +4,8 @@
   <property name="visitante" default="Aventureiro" />
   <start />
   <lore />
-  <lore_1/>
+  <lore_1 />
   <middle />
-  <castelo1>
+  <castelo1 />
   <ending />
 </fable>
