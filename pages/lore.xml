@@ -1,7 +1,7 @@
 <page id="lore" bg_image="celebracao_oktoberfest_arte_digital.jpg">
   <agent
     id="teste"
-    text="Era uma vez, num reino não tão distante chamado Tronobrega, um jovem cavaleiro chamado Sir Nicolau. Ele não era o mais corajoso, nem o mais forte... mas era o único disponível no momento. E, para ser justo, tinha uma espada que brilhava no escuro — embora não fosse lá muito afiada."
+    text="Era uma vez, num reino não tão distante chamado Tronobrega, um jovem cavaleiro chamado Sir Nicolau. Ele não era o mais corajoso, nem o mais forte... mas era o único disponível no momento. E, para ser justo, tinha uma espada — embora não fosse lá muito afiada."
     color="black"
     animation="typewriter"
     width="790"
