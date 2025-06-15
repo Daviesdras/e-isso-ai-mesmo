@@ -7,8 +7,6 @@
     width="220"
     height="280"
   />
-  <agent id="drag" image="drag.png" x="470" y="180" width="290" />
-  <agent id="vei" image="velho.png" x="440" y="380" width="140" />
   <agent
     id="asd"
     text="Sir nicolau, meu tio — o famoso Mago Rabugildo — foi sequestrado por um dragão que odeia barulho e adora chá. Você deve resgatá-lo. E leve biscoitos, ele fica insuportável com fome.."
@@ -19,5 +17,7 @@
     border="solid"
     bg_color="white"
     font-size="28"
+  <agent id="drag" image="drag.png" x="470" y="180" width="290" />
+  <agent id="vei" image="velho.png" x="440" y="380" width="140" />
   />
 </page>
