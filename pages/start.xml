@@ -1,12 +1,4 @@
-<page id="start" bg_image="chatgpt_image_15_de_jun_de_2025_12_44_50.png">
-<agent
-  id="image_agent"
-  image="chatgpt_image_15_de_jun_de_2025_13_19_28.png"
-  x="100"
-  y="100"
-  width="200"  <!-- Ajuste o valor conforme necessário -->
-  height="150" <!-- Ajuste o valor conforme necessário -->
-/>
+<page id="start" bg_image="chatgpt_image_15_de_jun_de_2025_13_19_28.png">
   <agent
     id="next_page_text"
     text="Proxima Pagina"
