@@ -1,3 +1,25 @@
-<page id="caverna2" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página caverna2" color="white" font-size="24" />
+<page id="caverna2" bg_image="caverna.jpg">
+  <agent
+    id="kgk"
+    text="Tio Rabugildo usou magia para se soltar (ele só não usou antes porque estava com preguiça) e os dois correram montados no Pé-de-pano, que naquele dia bateu recorde de velocidade entre os Equinos.
+"
+    color="black"
+    animation="typewriter"
+    width="790"
+    height="250"
+    border="solid"
+    bg_color="white"
+    font-size="28"
+  />
+  <agent id="drag" image="drag.png" x="470" y="180" width="290" />
+  <agent id="biscoito" image="biscoito.png" x="470" y="480" width="70" />
+  <agent id="biscoito2" image="biscoito.png" x="424" y="480" width="70" />
+  <agent id="biscoito3" image="biscoito.png" x="445" y="450" width="70" />
+  <agent
+    id="cavalo_vei"
+    image="chatgpt_image_15_de_jun.png"
+    x="145"
+    y="310"
+    width="200"
+  />
 </page>
