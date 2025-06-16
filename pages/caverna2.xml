@@ -22,4 +22,14 @@
     y="310"
     width="200"
   />
+  <agent
+    id="dgbgdas"
+    color="white"
+    text="Proxima Pagina"
+    y="500"
+    x="560"
+    font-size="23"
+    bg_color="#3a5c60"
+    on_click="goToPage('caverna2')"
+  />
 </page>
