@@ -1,11 +1,16 @@
-<page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+<page id="ending" bg_color="black" >
   <agent
     id="teste"
-    text="Hello World Ending"
+    text="De volta ao castelo, foram recebidos como heróis. Tio Rabugildo ganhou uma nova chaleira (com café dessa vez) e Sir Nicolau... bom, ele foi promovido a assistente do gerente dos cavaleiros .
+
+Ele ainda não é muito bom com espadas, mas descobriu que seu verdadeiro talento é fugir rápido e pensar depois.
+
+E o dragão? Abriu uma casa de chás e publica resenhas de livros místicos no Instagram."
     color="white"
     x="center"
     y="center"
-    font-size="70"
+    font-size="30"
+    width="580"
   />
 
   <agent
@@ -14,6 +19,7 @@
     animation="glitch"
     y="480"
     x="640"
+    color="white"
     on_click="goToPage('start')"
   />
 </page>
