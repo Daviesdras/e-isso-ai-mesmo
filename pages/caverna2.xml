@@ -30,6 +30,6 @@
     x="560"
     font-size="23"
     bg_color="#3a5c60"
-    on_click="goToPage('caverna2')"
+    on_click="goToPage('ending')"
   />
 </page>
